@@ -1,4 +1,4 @@
-# Vylex Technology Group
+# Vylex
 
 **Built in South Africa. Built for the world.**
 
